@@ -1,0 +1,11 @@
+{
+  "name": "vibiz-inc-website",
+  "version": "1.0.0",
+  "description": "Vibiz Inc. - AI-Powered Funnels from Conversations",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": ["ai", "funnels", "marketing"],
+  "author": "Vibiz Inc.",
+  "license": "ISC"
+}

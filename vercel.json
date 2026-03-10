@@ -1,8 +1,8 @@
 {
-  "buildCommand": false,
-  "devCommand": false,
+  "buildCommand": "echo 'No build needed'",
   "outputDirectory": ".",
   "framework": null,
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "public": true
 }
